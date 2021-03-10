@@ -29,7 +29,4 @@ if __name__ == '__main__':
                 print("Please re enter the values")
     
     
-    # line 9 and write_csv function
-                
-    
            
